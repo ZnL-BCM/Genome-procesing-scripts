@@ -1,6 +1,7 @@
 // genome_n2bed.c
 // Finds all instances of N (missing base) in the human genome and return BED coordinates for them, 
 // Useful when we need to generate a mask for this.
+// To use, just compile and give two arguments for 1) input fasta file and 2) output bed file.
 // Last updated: 7/21/2022
 
 #include <stdio.h>
