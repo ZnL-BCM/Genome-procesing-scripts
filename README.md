@@ -7,3 +7,4 @@ Please contact me at zianl@bcm.edu if you have any questions. You can use the sc
 ## Scripts
 
 * genome_n2bed.c: C script for finding the BED coordinates of all hard-masked (N) nucleotides in a fasta file. Compile before use. 
+* genome_cpgs2bed.c: C script for finding BED coordinates of all CG dinucleoties. Very similar to the above script.
